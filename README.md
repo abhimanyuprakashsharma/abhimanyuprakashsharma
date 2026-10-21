@@ -1,13 +1,13 @@
 <div align="center">
 
 # Hi there, I'm Abhimanyu Prakash Sharma 👋
-### 🚀 3rd Year B.Tech Undergrad in AI & Data Science | Full-Stack & Java Developer
+### 🚀 B.Tech in AI & Data Science | Full-Stack & Java Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=C5A059&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Student;Full-Stack+Web+Developer;Building+Scalable+Products;Java+%26+Modern+Web+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=C5A059&center=true&vCenter=true&width=550&lines=B.Tech+in+AI+%26+Data+Science;Full-Stack+Web+Developer;Exploring+%26+Learning+New+Technologies;Java+%26+Modern+Web+Enthusiast)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://instagram.com/axviixv"><img src="https://img.shields.io/badge/Instagram-axviixv-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://ifeelav-website.vercel.app"><img src="https://img.shields.io/badge/Live_Project-IFEELAV-C5A059?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="https://github.com/abhimanyuprakashsharma/ShopSphere-Advanced-Java"><img src="https://img.shields.io/badge/Java_Project-ShopSphere-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
 </p>
 
 ---
@@ -16,11 +16,11 @@
 
 ## 📌 About Me
 
-- 🎓 Currently pursuing **B.Tech (3rd Year)** in **Artificial Intelligence & Data Science (AI & DS)**.
-- 💡 Passionate about building functional, high-performance web applications and backend architectures.
-- 🛠️ Hands-on experience with **Java (Jakarta EE, Servlets, JSP, JDBC, MySQL)** and **Modern Web Development (JavaScript, APIs, Vercel Serverless, Firebase)**.
-- 🎯 Always learning, exploring new technologies in Data Science, Machine Learning, and Cloud Systems.
-- 💬 Ask me about **Java, Web APIs, OTT Aggregators, or Full-Stack Projects**!
+- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science (AI & DS)**.
+- 💡 Constantly exploring and learning new technologies across Full-Stack Web Development, APIs, and Data Science.
+- 🛠️ Hands-on experience building practical projects using **Java (Jakarta EE, Servlets, JSP, JDBC, MySQL)** and **Modern Web Frameworks (JavaScript, REST APIs, Vercel Serverless, Firebase)**.
+- 🎯 Focused on problem-solving, clean code architecture, and turning ideas into functional software products.
+- 💬 Interested in discussions around **AI, Java, Web Technologies, and Backend Architecture**!
 
 ---
 
@@ -78,10 +78,9 @@
 
 ## 📬 Let's Connect!
 
-- **Instagram:** [@axviixv](https://instagram.com/axviixv)
 - **GitHub:** [@abhimanyuprakashsharma](https://github.com/abhimanyuprakashsharma)
-- **Portfolio / Live Demo:** [ifeelav-website.vercel.app](https://ifeelav-website.vercel.app)
+- **Projects & Demos:** [ifeelav-website.vercel.app](https://ifeelav-website.vercel.app)
 
 <div align="center">
-  <sub>⭐ Designed with dedication & coffee by Abhimanyu Prakash Sharma.</sub>
+  <sub>⭐ Designed with dedication by Abhimanyu Prakash Sharma.</sub>
 </div>
